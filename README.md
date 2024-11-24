@@ -3,10 +3,11 @@ Automatically copies system name for a less annoying experience
 
 # Installation (AdiIRC only)
 1. go to `Tools > Edit Scripts` or press `ALT+R`
-2. create a new file `File > New` or press `CTRL+N` paste the script provided below
-3. uncomment your version by removing the semicolon before the line
-4. press `Save`, name the file `quickcopy` and press the `Save` button
-5. profit
+2. create a new file `File > New` or press `CTRL+N`
+3. paste the script provided below into the editor
+4. uncomment your version by removing the semicolon before the line
+5. press `Save`, name the file `quickcopy` and press the `Save` button
+6. profit
 
 # Script
 ```
