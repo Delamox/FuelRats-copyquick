@@ -1,20 +1,24 @@
 # FuelRats-quickcopy
-Autocopy and one-click-copy functionality for system names for a less annoying experience
+Autocopy and one-click-copy functionality for system names for a less annoying experience.
 
 # Installation (AdiIRC only)
-1. go to `Tools > Edit Scripts` or press `ALT+R`
-2. create a new file `File > New` or press `CTRL+N`
-3. paste the script provided below into the editor
-4. uncomment your version by removing the semicolon before the line
-5. press `Save`, name the file `quickcopy` and press the `Save` button
-6. profit
+1. Go to `Tools > Edit Scripts` or press `ALT+R`.
+2. Create a new file `File > New` or press `CTRL+N`.
+3. Paste the script provided below into the editor.
+4. Uncomment your version by removing the semicolon before the line.
+5. Press `Save`, name the file `quickcopy` and press the `Save` button.
+6. Profit.
 
 # Usage
-### manual
-click the 'RATSIGNAL' text field to copy the system name
-### automatic
-`/qctog` toggles all autocopy functionality\
-`/qcver [ody/hor/leg]` toggles autocopying for specific versions, running without argument lists status for all versions
+### Manual
+Click the 'RATSIGNAL' text field to copy the system name.
+### Automatic
+`/qctog` 
+ - Toggles all autocopy functionality.
+
+`/qcver [ody/hor/leg]`
+ - Toggles autocopying for specific versions (multiple can be enabled, but not at the same time).
+ - Running without argument lists status for all versions.
 
 # Script
 ```
